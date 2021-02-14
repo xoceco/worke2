@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
-public class SecondFragment extends Fragment {
+public class SecondFragment extends Fragment {//SecondFragmentSecondFragmentSecondFragmentSecondFragment
 
     @Override
     public View onCreateView(
